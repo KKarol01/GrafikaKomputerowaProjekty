@@ -1,9 +1,9 @@
 # Archiwum z projektami na zajęcia projektowe z grafiki komputerowej.
 
 ## Projekty do wykonania:
-- Wirtualna kamera
-- Rozwiązanie problemu zasłaniania
-- Modelowanie światła
+- ![Wirtualna kamera](https://github.com/KKarol01/GrafikaKomputerowaProjekty/tree/zad1)
+- ![Rozwiązanie problemu zasłaniania](https://github.com/KKarol01/GrafikaKomputerowaProjekty/tree/zad2)
+- ![Modelowanie światła](https://github.com/KKarol01/GrafikaKomputerowaProjekty/tree/zad3)
 
 ### We wszystkich projektach sterowanie kamerą jest następujące:
 - Przemieszczanie: W, A, S, D
